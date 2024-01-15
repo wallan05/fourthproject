@@ -1,0 +1,17 @@
+body{
+    align-items: last baseline;
+}
+h1{
+    color:black;text-align: center;
+    background-color:cadetblue;
+}
+h2{
+    background-color:white
+    ;text-align: center;
+}
+*{
+    background-color: white;
+}
+section{
+    color:red;
+}
